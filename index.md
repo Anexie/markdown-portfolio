@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Beautiful Flower](https://c.files.bbci.co.uk/957C/production/_111686283_pic1.png)
 
 <br>
 
